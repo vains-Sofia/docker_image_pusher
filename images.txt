@@ -11,3 +11,9 @@ mysql
 
 # 同步redis
 redis
+
+# 添加maven maven:3.9-ibm-semeru-21-jammy
+maven:3.9-ibm-semeru-21-jammy
+
+# 添加SpringBoot分层打包镜像所需的jre
+eclipse-temurin:21-jre
